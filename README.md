@@ -20,7 +20,7 @@ The analysis covers:
 
 | Price Distribution |
 |---|
-| ![Price](Price.jpg) |
+| ![Price](Figures/Price.jpg) |
 
 ### Independent Variables & Bivariate Analysis
 
@@ -50,7 +50,7 @@ For each predictor, a distribution plot and a scatter plot against `Price` are g
 
 | Sample Scatter Plots (Predictors vs. Price) |
 |---|
-| ![PricevsSquarefootage](PricevsSquarefootage.jpg) |
+| ![PricevsSquarefootage](Figures/PricevsSquarefootage.jpg) |
 
 ---
 
@@ -66,7 +66,7 @@ BackyardSpace, AgeOfHome
 
 | Linear Regression Summary Output |
 |---|
-| ![Summary](ModelSummary.png) |
+| ![Summary](Figures/ModelSummary.png) |
 
 ---
 
@@ -109,7 +109,7 @@ The test MSE is only marginally higher than the training MSE, indicating the mod
 
 | Residuals vs. Fitted Values & Autocorrelation of Residuals |
 |---|
-| ![residuals](residuals_analysis.jpg) |
+| ![residuals](Figures/residuals_analysis.jpg) |
 
 ---
 
